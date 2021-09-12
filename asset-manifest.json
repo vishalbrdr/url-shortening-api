@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/url-shortening-api/static/css/main.47847b51.chunk.css",
+    "main.js": "/url-shortening-api/static/js/main.26c6679b.chunk.js",
+    "main.js.map": "/url-shortening-api/static/js/main.26c6679b.chunk.js.map",
+    "runtime-main.js": "/url-shortening-api/static/js/runtime-main.1769030a.js",
+    "runtime-main.js.map": "/url-shortening-api/static/js/runtime-main.1769030a.js.map",
+    "static/js/2.346e519e.chunk.js": "/url-shortening-api/static/js/2.346e519e.chunk.js",
+    "static/js/2.346e519e.chunk.js.map": "/url-shortening-api/static/js/2.346e519e.chunk.js.map",
+    "index.html": "/url-shortening-api/index.html",
+    "static/css/main.47847b51.chunk.css.map": "/url-shortening-api/static/css/main.47847b51.chunk.css.map",
+    "static/js/2.346e519e.chunk.js.LICENSE.txt": "/url-shortening-api/static/js/2.346e519e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/url-shortening-api/static/media/illustration-working.c9b5ef54.svg",
+    "static/media/icon-brand-recognition.c349d3b6.svg": "/url-shortening-api/static/media/icon-brand-recognition.c349d3b6.svg",
+    "static/media/icon-detailed-records.265c8aea.svg": "/url-shortening-api/static/media/icon-detailed-records.265c8aea.svg",
+    "static/media/icon-fully-customizable.a1532a74.svg": "/url-shortening-api/static/media/icon-fully-customizable.a1532a74.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1769030a.js",
+    "static/js/2.346e519e.chunk.js",
+    "static/css/main.47847b51.chunk.css",
+    "static/js/main.26c6679b.chunk.js"
+  ]
+}
